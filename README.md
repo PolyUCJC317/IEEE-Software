@@ -1,4 +1,4 @@
-The datasets are formed by two part. 
+The datasets are formed by two parts. 
 Desktop-BugReport.zip contains 100 desktop apps and Mobile-BugReport.zip contains 100 Android apps.
 You can check each dataset at Github, the link are as following:
 
