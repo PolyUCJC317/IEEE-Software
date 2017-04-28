@@ -1,3 +1,6 @@
+We conduct a systematic investigation on the difference between the BRs for desktop software and that for mobile apps in GitHub. Besides discussing the influence of the BRs’ features, we investigate the relationship between BRs’ features and the time of bug fixing. We found that the average fixing time for desktop software is longer than that for mobile apps due to the lack of high-ratio MEs contained in BRs of desktop software. The results indicate that it is necessary to add new data sources to enrich BRs, especially for desktop software. By doing so, developers could improve the effectiveness of automated software maintenance tasks, such as fixer recommendation and bug localization. We find that commit messages can facilitate these tasks for GitHub projects, especially for desktop software. For instance, researchers can utilize the useful information (e.g., code example) extracted from commit messages to improve the accuracy of bug localization using BRs. In future work, we will use commit messages to develop effective algorithms for automating these software maintenance tasks and compare it with traditional approaches for GitHub projects
+
+
 The datasets are formed by two parts. 
 Desktop-BugReport.zip contains 100 desktop apps and Mobile-BugReport.zip contains 100 Android apps.
 You can check each dataset at Github, the link are as following:
